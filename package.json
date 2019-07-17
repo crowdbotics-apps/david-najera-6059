@@ -8,6 +8,7 @@
     "postinstall": "rndebugger-open"
   },
   "dependencies": {
+    "passport": "*",
     "@eva-design/eva": "1.0.0",
     "axios": "0.19.0",
     "react": "16.8.3",
